@@ -64,8 +64,8 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: true
-  showTitle: true
+  enable: false
+  showTitle: false
   title: 我的梦想
   text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
 
@@ -80,7 +80,7 @@ music:
   server: netease #require	music platform: netease, tencent, kugou, xiami, baidu
   type: playlist #require song, playlist, album, search, artist
   id: 503838841 #require	song id / playlist id / album id / search keyword
-  fixed: true # 开启吸底模式
+  fixed: false # 开启吸底模式
   autoplay: false # 是否自动播放
   theme: '#42b983'
   loop: 'all' # 音频循环播放, 可选值: 'all', 'one', 'none'
@@ -511,7 +511,7 @@ canvas_nest:
 
 # 背景静止彩带.
 ribbon:
-  enable: false
+  enable: true
   size: 150 # 彩带大小, 默认: 90.
   alpha: 0.6 # 彩带透明度 (0 ~ 1), 默认: 0.6.
   zIndex: -1 # 背景的z-index属性，css属性用于控制所在层的位置, 默认: -1.
@@ -541,8 +541,8 @@ subtitle:
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
-  sub1: 从来没有真正的绝境, 只有心灵的迷途
-  sub2: Never really desperate, only the lost of the soul
+  sub1: 怕什么真理无穷，进一寸有进一寸的欣喜~
+  sub2: Stay hungry, Stay foolish~
 
 # 手机二级菜单.
 navMenu:

@@ -4,9 +4,9 @@
 
 # Site
 title: QS ZONE
-subtitle: ''
-description: ''
-keywords:
+subtitle: '穷思站'
+description: '怕什么真理无穷'
+keywords: '穷思 奇思 启示 其实 起始 博客 前端'
 author: Ronnie Zhang
 language: zh-CN
 timezone: ''
@@ -46,7 +46,7 @@ relative_link: false
 future: true
 highlight:
   enable: false
-  line_number: true
+  line_number: false
   auto_detect: false
   tab_replace: ''
   wrap: true
@@ -60,7 +60,7 @@ prismjs:
 prism_plugin:
   mode: 'preprocess' # realtime/preprocess
   theme: 'tomorrow'
-  line_number: false # default false
+  line_number: true # default false
   custom_css:
 
 # Home page setting
@@ -100,7 +100,7 @@ search:
   field: post
 
 permalink_pinyin:
-  enable: true
+  enable: false
   separator: '-' # default: '-'
 
 # Include / Exclude file(s)
