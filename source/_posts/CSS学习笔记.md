@@ -1,6 +1,7 @@
 ---
 title: CSS学习笔记
 date: 2019-06-23 19:41:25
+cover: true
 tags: CSS
 ---
 
