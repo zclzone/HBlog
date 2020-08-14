@@ -1,9 +1,8 @@
 ---
 title: Bootstrap3 常用的类
 date: 2019-05-01 20:39:31
-tags:
-  - CSS
-  - Bootstrap
+categories: CSS
+tags: css
 ---
 
 # **<center>Bootstrap3 常用的类</center>**

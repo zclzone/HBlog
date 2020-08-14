@@ -6,12 +6,10 @@ top: true
 cover: true
 summary: CSS3 Flex布局
 categories: CSS
-tags:
-  - CSS
-  - Flex
+tags: css
 ---
 
-# CSS3 Flex 布局
+# Css3 Flex 布局
 
 ## 属性总览
 
