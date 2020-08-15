@@ -118,4 +118,6 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zclzone/zclzone.github.io.git
+  # repo: https://github.com/zclzone/zclzone.github.io.git
+  repo: https://gitee.com/zclzone/zclzone.git
+  branch: master
