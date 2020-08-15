@@ -204,7 +204,7 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatar.jpg
-  career: 前端工厂师
+  career: 前端工程师
   introduction: 就职于香港某上市公司
 
 # config my projects informations in about page.
