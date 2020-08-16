@@ -162,8 +162,8 @@ code:
 reward:
   enable: true
   title: 你的赏识是我前进的动力
-  wechat: /medias/reward/wechat.png
-  alipay: /medias/reward/alipay.jpg
+  wechat: https://gitee.com/zclzone/res/raw/master/images/wechat.jpg
+  alipay: https://gitee.com/zclzone/res/raw/master/images/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
 # minCharNumber: Approve copyright information by copying at least how many characters.
